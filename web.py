@@ -20,9 +20,9 @@ plan_one = {
 
 # Services
 my_service = {
-    'id': 'example_service',
-    'name': 'example_service',
-    'description': 'Simple service example',
+    'id': 'bcbsma_service',
+    'name': 'bcbsma_service',
+    'description': 'Simple service for BCBSMA',
     'bindable': True,
     'plans': [plan_one]
 }
